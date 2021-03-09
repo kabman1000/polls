@@ -1,0 +1,35 @@
+html {
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+body {
+  background: white url(images/background.gif) no-repeat;
+  background-size: 100%;
+}
+li, a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color:black;
+    justify-content: center;
+    font-family: fantasy;
+  }
+ul {
+    list-style: none;
+  }
+h3, h4 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.purp {
+  color:orangered;
+}
+.choise {
+  font-size: small;
+  color: antiquewhite;
+}
